@@ -68,7 +68,7 @@ function Center() {
           </div>
         </section>
 
-        <section className="p-4">
+        <section className="sm:p-4 pl-2">
           {playlist?.tracks.items.map((track, id) => (
             <div
               key={track.track.id}
