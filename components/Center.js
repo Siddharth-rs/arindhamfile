@@ -75,7 +75,7 @@ function Center() {
               className="text-gray-400 pl-5 pb-3 pt-3 pr-5 grid grid-cols-2 hover:bg-gray-900 hover:bg-opacity-50 rounded-lg"
             >
               <div className="flex">
-                <div className="grid grid-cols-2 items-center">
+                <div className="grid grid-cols-2">
                   <p>{id + 1}</p>
                   <img
                     className="h-10 w-10 rounded-md hidden md:inline"
